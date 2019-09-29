@@ -1,18 +1,16 @@
 {
-  "name": "slack-httpstatuscats",
+  "name": "goatbot",
   "version": "2.0.0",
-  "description": "Wanna quickly look up a definition of http status code? Just type /httpstatus slash command! HTTP Status Cats bot responds you with a short description of each status code with the HTTP Status Cats picture. 🐱",
+  "description": "Get straight answers. Just type /yesorno and your question.",
   "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "slack",
-    "bot",
-    "httpstatus",
-    "cats"
+    "csc",
+    "goatbot"
   ],
-  "author": "Tomomi ❤ Imura",
+  "author": "Simon Gohl",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",

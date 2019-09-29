@@ -1,3 +1,4 @@
+//SOURCE: https://github.com/girliemac/slack-httpstatuscats/blob/master/src/verifySignature.js
 const crypto = require('crypto');
 
 const isVerified = (req) => { 
