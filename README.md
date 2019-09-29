@@ -2,7 +2,7 @@
 
 ## Local setup
 
-### 1. `git clone http` to clone repo
+### 1. `git clone https://sgohl@bitbucket.org/sgohl/goatbot.git` to clone repo
 ### 2. `npm install` to install dependencies
 ### 3. configure Slack credentials
 - *Client ID:* 
