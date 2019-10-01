@@ -4,7 +4,7 @@
 
 ### 1. `git clone https://sgohl@bitbucket.org/sgohl/goatbot.git` to clone repo
 ### 2. `npm install` to install dependencies
-### 3. configure Slack credentials
+### 3. Create `.env` file and configure Slack credentials 
 - *Client ID:* 
 - *Client Secret:* 
 - *Signing Secret:* 
