@@ -8,13 +8,9 @@
 The following configuration were used:
 
 - **Command:** `/yesorno`
-
 - **Request URL:** your URL + `/command`
-
 - **Short Description:** `Get a straight yes or no answer`
-
 - **Usage Hint:** `[ask a yes or no question]`
-
 - **Escape channels, users, and links sent to your app:** `[x]`
 
 
@@ -27,7 +23,8 @@ Example: **/yesorno will I install this slash command?**
 
 ### 1. `git clone https://sgohl@bitbucket.org/sgohl/goatbot.git` to clone repo
 ### 2. `npm install` to install dependencies
-### 3. Create `.env` file and configure Slack credentials 
+### 3. Create `.env` file and configure with your Slack credentials 
+
 - **Client ID:** xxxx-yyyy
 - **Client Secret:** y0urcl13n753cr37
 - **Signing Secret:** y0ur516n1n653cr37
