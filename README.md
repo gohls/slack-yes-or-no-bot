@@ -6,15 +6,16 @@
 ### 2. Edit `Slash Commands`
 
 The following configuration were used:
-- Command: `/yesorno`
 
-- Request URL: your URL + `/command`
+- **Command:** `/yesorno`
 
-- Short Description: `Get a straight yes or no answer`
+- **Request URL:** your URL + `/command`
 
-- Usage Hint: `[ask a yes or no question]`
+- **Short Description:** `Get a straight yes or no answer`
 
-- Escape channels, users, and links sent to your app: `[x]`
+- **Usage Hint:** `[ask a yes or no question]`
+
+- **Escape channels, users, and links sent to your app:** `[x]`
 
 
 Example: **/yesorno will I install this slash command?**
@@ -27,9 +28,9 @@ Example: **/yesorno will I install this slash command?**
 ### 1. `git clone https://sgohl@bitbucket.org/sgohl/goatbot.git` to clone repo
 ### 2. `npm install` to install dependencies
 ### 3. Create `.env` file and configure Slack credentials 
-- *Client ID:* 
-- *Client Secret:* 
-- *Signing Secret:* 
+- **Client ID:** xxxx-yyyy
+- **Client Secret:** y0urcl13n753cr37
+- **Signing Secret:** y0ur516n1n653cr37
 ### 4. `npm start` to run the app locally
 
 ## Voilà!
