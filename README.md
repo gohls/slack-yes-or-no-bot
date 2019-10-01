@@ -14,7 +14,8 @@ The following configuration were used:
 - **Escape channels, users, and links sent to your app:** `[x]`
 
 
-Example: **/yesorno will I install this slash command?**
+
+## Example: **/yesorno will I install this slash command?**
 
 ![Alt Text](https://yesno.wtf/assets/yes/2-5df1b403f2654fa77559af1bf2332d7a.gif)
 
