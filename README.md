@@ -15,11 +15,6 @@ The following configuration were used:
 
 
 
-## Example: **/yesorno will I install this slash command?**
-
-![Alt Text](https://yesno.wtf/assets/yes/2-5df1b403f2654fa77559af1bf2332d7a.gif)
-
-
 ## Local setup
 
 ### 1. `git clone https://sgohl@bitbucket.org/sgohl/goatbot.git` to clone repo
@@ -32,6 +27,11 @@ The following configuration were used:
 ### 4. `npm start` to run the app locally
 
 ## Voilà!
+
+
+## Example: **/yesorno will I install this slash command?**
+
+![Alt Text](https://yesno.wtf/assets/yes/2-5df1b403f2654fa77559af1bf2332d7a.gif)
 
 ### Sources
 
