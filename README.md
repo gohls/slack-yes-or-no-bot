@@ -21,9 +21,9 @@ The following configuration were used:
 ### 2. `npm install` to install dependencies
 ### 3. Create `.env` file and configure with your Slack credentials 
 
-- **Client ID:** xxxx-yyyy
-- **Client Secret:** y0urcl13n753cr37
-- **Signing Secret:** y0ur516n1n653cr37
+- **SLACK_CLIENT_ID=** xxxx-yyyy
+- **SLACK_CLIENT_SECRET=** y0urcl13n753cr37
+- **SLACK_SIGNING_SECRET=** y0ur516n1n653cr37
 ### 4. `npm start` to run the app locally
 
 ## Voilà!
