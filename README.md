@@ -7,10 +7,15 @@
 
 The following configuration were used:
 - Command: `/yesorno`
+
 - Request URL: your URL + `/command`
+
 - Short Description: `Get a straight yes or no answer`
+
 - Usage Hint: `[ask a yes or no question]`
+
 - Escape channels, users, and links sent to your app: `[x]`
+
 
 Example: **/yesorno will I install this slash command?**
 
