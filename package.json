@@ -1,5 +1,5 @@
 {
-  "name": "goatbot",
+  "name": "yes-or-no-bot",
   "version": "2.0.0",
   "description": "Get straight answers. Just type /yesorno and your question.",
   "scripts": {
